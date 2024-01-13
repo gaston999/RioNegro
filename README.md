@@ -1,4 +1,4 @@
-MovimientoEvitaRioNegro
+RioNegro
 =======================
 
-Aplicación para MovimientoEvitaRioNegro.org
+Aplicación para RioNegro
